@@ -1,0 +1,1 @@
+My calculator project is a calulator i created on a website using HTML, JAVASCRIPT and CSS. It can be used to calculate all the basic calculations using Addition(+), Subtraction(-), Multiplication(x) and Division.
